@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
-This project performs parameter estimation for cosmological models using the **Pantheon Type Ia Supernovae dataset**. By fitting theoretical models to observational data, we estimate two fundamental cosmological parameters in a flat $\Lambda$CDM universe:
+This project performs parameter estimation for cosmological models using the **Pantheon Type Ia Supernovae dataset**. By fitting theoretical models to observational data, we estimate two fundamental cosmological parameters in a flat $\Lambda\$CDM universe:
 - **$H_0$** (Hubble Constant): The current rate of expansion of the universe.
 - **$\Omega_m$** (Matter Density Parameter): The fraction of the universe's critical density that is in the form of matter.
 
